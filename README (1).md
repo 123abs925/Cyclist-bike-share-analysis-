@@ -33,5 +33,5 @@ We can infer that casual users are more likely to use their bikes for a longer d
 
 Dasboard
 
-![cycle share analysis snapshot](https://github.com/Akash7142/Cyclistic-data-analysis/assets/131694327/77765d6c-1b96-4061-b359-4a80804f1c89)
+![cycle share analysis snapshot](https://github.com/123abs925/Cyclist-bike-share-analysis-)
 
